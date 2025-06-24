@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 1.0em;  
+}
+
+nav{
+    text-decoration: overline;
+    color: #616161;
+    font-size: 1.3em;
+}
+
+a:link{text-decoration: none; 
+}
+a:hover{ color: cadetblue;}
+a{color:#616161;}
+
+
+
+h1{
+    color: cadetblue;
+}
+

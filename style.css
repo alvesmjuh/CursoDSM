@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    
+}
+.dw{color: rgb(0, 255, 34);}
+
+nav{
+    text-decoration: overline;
+    color: #616161;
+    font-size: 1.3em;
+}
+
+a:link{text-decoration: none; 
+}
+a:hover{ color: cadetblue;}
+a{color:#616161;}
+th{color: black;}
+table{
+    margin: 5em;
+    margin-top: 0em;    
+    color: red;
+}
+
+h1{
+    color: cadetblue;
+}
